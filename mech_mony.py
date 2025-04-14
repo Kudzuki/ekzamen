@@ -1,1 +1,7 @@
-print("Hello")
+def merch():
+    one = []
+    two =[]
+    three =[]
+    four =[]
+    five =[]
+    
