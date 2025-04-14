@@ -5,7 +5,7 @@ def main():
     while True:
         print("Добро пожаловать в Бота-Помощника. Выбери желаемый контент:")
         print("1 - Анекдот \n 2 - Купить мерч \n 3 - Выход")
-        choice = input("Выберите действие 1-2")
+        choice = input("Выберите действие 1-3: ")
         if (choice == "1"):
             print(tell_jokes())
         elif (choice == "2"):
