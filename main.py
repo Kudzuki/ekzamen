@@ -1,5 +1,5 @@
 from jokes import tell_jokes
-from mech_mone import merch
+from mech_mony import merch
 
 def main():
     while True:
