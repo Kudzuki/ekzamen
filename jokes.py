@@ -5,5 +5,5 @@ jokes = [
     "Колобок повесился",
     "Почему русалки не учавствуют в заплывах? - Не их сезон"
          ]
-def jokes():
+def tell_jokes():
     return random.choice(jokes)
